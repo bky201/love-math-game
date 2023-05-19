@@ -66,7 +66,7 @@ love maths game is a website that allows visitors to play game by calculating th
 
 To guarantee responsiveness, all pages underwent thorough testing on screen sizes starting from 320px and above, following the criteria for responsive design. This testing was conducted on Chrome, Edge, and Firefox.
 The foloowing testing method was implemented.
-1. Launch a web browser and visit Aerobics Club.
+1. Launch a web browser and visit love math game website.
 2. Access the developer tools by right-clicking and selecting "Inspect."
 3. Switch to the responsive mode and reduce the width to smaller size.
 4. Adjust the zoom level.
@@ -78,6 +78,24 @@ The website exhibits responsiveness across all screen sizes, ensuring that no im
 
 The Actual Output:
 
-The website generally performed as anticipated, although there were some issues specifically observed when switching to smaller screen views. 
+The website generally performed as anticipated, although there were some issues specifically observed when switching to smaller screen views.
+
+### Accessibility
+
+Throughout the development process and during the final testing of the deployed website, the Wave Accessibility tool was employed to conduct accessibility testing. The testing procedure focused on verifying that the website adhered to the following criteria:
+
+1. Proper labeling and alternative text: All elements, such as form controls and images, were appropriately labeled and included descriptive alternative text.
+
+2. Color contrast: Sufficient color contrast was ensured between text and background colors to enhance readability for individuals with visual impairments.
+
+3. Keyboard accessibility: The website was tested to ensure that all interactive elements, menus, and navigation could be accessed and operated solely using a keyboard.
+
+4. Heading structure: The headings were organized in a logical hierarchy, aiding in content navigation and comprehension.
+
+5. Link accessibility: Links were clearly identified and provided meaningful text to indicate their purpose or destination.
+
+6. Form validation and error handling: Form inputs were validated and clear error messages were provided to assist users in correcting any input errors.
+
+By employing the Wave Accessibility tool and adhering to these criteria, the website aimed to enhance its accessibility and ensure a user-friendly experience for individuals with disabilities.
 
 
