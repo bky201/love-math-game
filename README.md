@@ -111,13 +111,15 @@ By employing the Wave Accessibility tool and adhering to these criteria, the web
 ![alt text](assets/images/html-validator.png)
 
 #### CSS Validator
-* HTML
-  * No errors were returned when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/).
+* CSS
+  * No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/).
+
 ![alt text](assets/images/css-validator.png)
 
 #### JS Validator
-* HTML
-  * No errors were returned when passing through the official [Jshint validator](https://jshint.com/).
+* Javascript
+  * No errors were found when passing through the official [Jshint validator](https://jshint.com/).
+
 ![alt text](assets/images/JSHint-validator.png)
 
 
