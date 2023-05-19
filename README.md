@@ -62,4 +62,22 @@ love maths game is a website that allows visitors to play game by calculating th
 
 ## Testing
 
+### Web Page Responsiveness
+
+To guarantee responsiveness, all pages underwent thorough testing on screen sizes starting from 320px and above, following the criteria for responsive design. This testing was conducted on Chrome, Edge, and Firefox.
+The foloowing testing method was implemented.
+1. Launch a web browser and visit Aerobics Club.
+2. Access the developer tools by right-clicking and selecting "Inspect."
+3. Switch to the responsive mode and reduce the width to smaller size.
+4. Adjust the zoom level.
+5. Click and drag the responsive window to its maximum width.
+
+The Expected Output:
+
+The website exhibits responsiveness across all screen sizes, ensuring that no images appear stretched. There is no horizontal scroll present, and all elements are properly arranged without any overlapping.
+
+The Actual Output:
+
+The website generally performed as anticipated, although there were some issues specifically observed when switching to smaller screen views. 
+
 
