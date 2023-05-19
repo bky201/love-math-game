@@ -31,3 +31,35 @@ love maths game is a website that allows visitors to play game by calculating th
 
 ![alt text](assets/images/game.png)
 
+* The Score Area
+  * This section will allow the user to see exactly how many correct and incorrect answers they have provided.
+
+![alt text](assets/images/sccore.png)
+
+### Features Left to Implement
+
+* Adding another feature idea
+
+## Design Section Rough Sketches
+* Main Page
+
+### Innovative tools and systems
+
+* Visual Studio Code
+  * Visual Studio Code IDE tool was utilized in building the website. 
+* HTML
+  * The primary language utilized in constructing the Website's structure was HTML.
+* CSS
+  * The styling of the Website was designed by utilizing an separate CSS file.
+* Git
+  * The source code of the Website was regularly committed and pushed during its development using Git.  
+* GitHub
+  * The source code of the website is accessible on GitHub, and it has been uploaded using Git Pages.  
+* Favicon.io
+  * The favicon files were generated using https://favicon.io/favicon-converter/.  
+* Font Awesome
+  * The game button icons obtained from https://fontawesome.com/.  
+
+## Testing
+
+
