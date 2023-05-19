@@ -98,4 +98,26 @@ Throughout the development process and during the final testing of the deployed 
 
 By employing the Wave Accessibility tool and adhering to these criteria, the website aimed to enhance its accessibility and ensure a user-friendly experience for individuals with disabilities.
 
+### Lighthouse 
+
+![alt text](assets/images/lighthouse.png)
+
+### Website Validation Test 
+
+#### HTML Validator
+* HTML
+  * No errors were returned when passing through the official [W3C validator](https://validator.w3.org/#validate_by_uri).
+
+![alt text](assets/images/html-validator.png)
+
+#### CSS Validator
+* HTML
+  * No errors were returned when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/).
+![alt text](assets/images/css-validator.png)
+
+#### JS Validator
+* HTML
+  * No errors were returned when passing through the official [Jshint validator](https://jshint.com/).
+![alt text](assets/images/JSHint-validator.png)
+
 
