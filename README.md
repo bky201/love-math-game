@@ -123,3 +123,40 @@ By employing the Wave Accessibility tool and adhering to these criteria, the web
 ![alt text](assets/images/JSHint-validator.png)
 
 
+## Unfixed Bugs
+
+* Text overlapping during small screen size.
+
+## Deployment
+
+### Repository
+
+The website was developed using the Visual Studio code editor and uploaded to the remote repository named 'love-math-game' on GitHub.
+
+During the development process, the following Git commands were utilized to push the code to the remote repository:
+
+1. `git add [file]` command was utilized to include the file(s) in the staging area prior to committing them.
+2. `git commit -m [commit message]` command was employed to record and save the changes made to the local repository, preparing them for the final step.
+3. `git push` command was utilized to upload all committed code to the remote repository on GitHub.
+
+### Hosting on Github Pages
+
+* The website was successfully published on GitHub Pages. The deployment process involved the following steps:
+  * Navigate to the "Settings" tab within the GitHub repository.
+  * Navigate to pages on the left menu
+  * Navigate to source section and select brach "main" and click "save"
+  * Once published successfully, after waiting for some time a live link will be generated as follow:
+  
+  Your site is live at https://bky201.github.io/love-math-game/
+
+### Clone the repository code locally
+
+To create a local copy of the repository code by cloning it just do the following steos:
+
+  * Navigate to the GitHub Repository that you want to clone locally, and then click on the dropdown button labeled "Code".
+  * Click on "HTTPS" and copy the link
+  * Open your IDE and install git
+  * On your cmd line write git clone "your https link"
+
+## Credits
+* [Code Institute Lessons](https://codeinstitute.net/de/bildungsgutschein/?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=8983321581&hsa_cam=16444385937&hsa_grp=134820843115&hsa_ad=592446400471&hsa_src=ytv&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMI_JSK-Kne_QIViYbVCh12PA-_EAEYASAAEgKIhvD_BwE)
