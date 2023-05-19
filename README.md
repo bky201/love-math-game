@@ -4,10 +4,17 @@ love maths game is a website that allows visitors to play game by calculating th
 
 ![alt text](assets/images/responsive.png)
 
-## Functionalities
+## Existing Features
 
 ### Main Page
 * Favicon 
   * A favicon brand is a heart with maths operators within the hear image.
 
 ![alt text](assets/images/favicon.png)
+
+* The Love Maths Logo and Heading
+  * Featured at the top of the page, the Love Maths logo and heading is easy to see for the user. Upon viewing the page, the user will be able to see the name of the game.
+
+  
+![alt text](assets/images/heading.png)
+
