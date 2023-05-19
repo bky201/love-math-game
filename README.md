@@ -18,3 +18,10 @@ love maths game is a website that allows visitors to play game by calculating th
   
 ![alt text](assets/images/heading.png)
 
+* The Game Area
+  * This section will allow the user to play the maths game. The user will be able to easily see icons for addition, subtraction, multiplication, and division games.
+  * The user will be able to select the type of maths game they will be playing by clicking on the different icons.
+
+![alt text](assets/images/game-type.png)
+
+
